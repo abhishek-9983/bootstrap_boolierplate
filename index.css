@@ -1,0 +1,12 @@
+.row{
+     background-color: black;
+     color: white;
+     border: 1.5px dotted white;
+}
+.c{
+     border: 1px  double lightblue;
+}
+div input{
+      width: 600px;
+      margin-top: 30px;
+}
